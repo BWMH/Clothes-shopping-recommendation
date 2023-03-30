@@ -1,1 +1,1 @@
-# Web-Mining
+# Clothes shopping recommendation
