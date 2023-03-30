@@ -1,3 +1,4 @@
+![My Image](images/recommendation.png)
 # Clothes shopping recommendation
 This project aims to improve customer shopping enthusiasm and online shopping experiences. It details and explains the model used for recommending shop items that users have a high possibility to purchase and the comparison between several approaches to predicting similarities and thus recommendation.
 The experimental results show that by measuring user similarity, specifically between purchase and rating history, one is able to more precisely predict user ratings for items that have not yet been purchased by the user and coincidentally curate a list of (new) items that the user is highly likely to purchase and rate high.
